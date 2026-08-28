@@ -37,7 +37,7 @@ AI-generated texts were produced using LLMs such as **ChatGPT** and **Gemini**. 
 
 Human-written samples consisted of both independently written text and material collected from established Arabic news and content sources.
 
-!(figures/dist-human-ai-sources.png)
+![](figures/dist-human-ai-sources.png)
 
 ### Dataset Structure
 
@@ -214,7 +214,7 @@ The evaluation pipeline calculates accuracy separately for each source.
 
 This is the Model/Data Source Matrix which shows prediction accuracy for each model on each seperate data source:
 
-!(figures/model-accuracy-by-source.png)
+![](figures/model-accuracy-by-source.png)
 
 
 ---
