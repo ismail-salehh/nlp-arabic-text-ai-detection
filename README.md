@@ -37,7 +37,7 @@ AI-generated texts were produced using LLMs such as **ChatGPT** and **Gemini**. 
 
 Human-written samples consisted of both independently written text and material collected from established Arabic news and content sources.
 
-!(figures/Distribution of Human and AI sources.png)
+!(figures/dist-human-ai-sources.png)
 
 ### Dataset Structure
 
